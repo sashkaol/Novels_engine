@@ -1,0 +1,24 @@
+{
+  "name": "novels_engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./engine/read.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashkaol/Novels_engine.git"
+  },
+  "author": "sashkaol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashkaol/Novels_engine/issues"
+  },
+  "homepage": "https://github.com/sashkaol/Novels_engine#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "line-reader": "^0.4.0"
+  }
+}
